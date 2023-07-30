@@ -1,0 +1,10 @@
+.navbar .navbar-brand{
+color: #E50914;
+font-weight: bold;
+display: flex;
+align-items: center;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #E50914;
+}
